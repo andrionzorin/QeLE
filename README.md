@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🦋 Qe Light Engine (QeLE)
 
 > **Lightweight, GPU-free image representation and reconstruction engine for low-resource devices.**
@@ -21,3 +22,7 @@ Enable AI-powered image generation and editing on **Raspberry Pi, old laptops, a
 ```python
 !pip install qele  # future PyPI package
 # Or clone and run examples/demo_colab.ipynb
+=======
+# QeLE
+Qe Light Engine (QeLE) — Lightweight, GPU-free image representation engine for low-resource devices. Encodes images into compact spatial blocks (Qe) for efficient storage, reconstruction, and generation without heavy AI models.
+>>>>>>> 529c147a191f9db7a266a95c1b7b74e5006915a0
